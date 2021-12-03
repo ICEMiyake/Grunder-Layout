@@ -1,0 +1,52 @@
+body {
+  background-color: green;
+  font-size: 1.7rem;
+  font-family: verdana, sans-serif;
+}
+
+p {
+  background-color: black;
+  color: lightblue;
+  font-size: 1.2rem;
+}
+
+body {
+  background-color: grey;
+}
+
+header {
+  /* background-color: #3CB115 */
+  /* background-color: rgb(120, 25, 10); */
+  /* background-color: rgba(120, 25, 10, 1); */
+  background-color: hsla(120, 100%, 80%, .85);
+}
+
+section {
+  background-color: white;
+  padding: 10px;
+  display: flex;
+  /* display: grid;
+  grid-template-columns: 1fr 2fr; */
+}
+
+article {
+  background-color: black;
+  margin: 4px;
+  padding: 10px
+}
+
+footer {
+  background-color: lightgreen;
+  padding: 10px
+}
+
+a {
+  color: hsl(120, 100%, 80%);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h1 {}
